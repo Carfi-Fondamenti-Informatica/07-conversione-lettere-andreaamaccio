@@ -2,10 +2,10 @@
 #include "lib.h"
 using namespace std;
 int main() {
-    char b, c;
-    cin>>c;
-    if (lettera(c, b)==true)
-        cout<<b;
+    char carattere;
+    cin>>carattere;
+    if (lettera(carattere)==true)
+        cout<<carattere;
     else
         cout<<"errore";
     return 0;

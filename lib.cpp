@@ -1,5 +1,6 @@
 #include <iostream>
 #include "lib.h"
+
 using namespace std;
 
 bool lettera(char &a){

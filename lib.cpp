@@ -1,3 +1,6 @@
+#include "lib.h"
+using namespace std;
+
 bool lettera(char &a){
     if (a >=65 && a <=90 )
     {
